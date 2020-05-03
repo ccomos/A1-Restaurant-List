@@ -6,7 +6,7 @@
  - 搜尋餐廳名稱或類別找到特定的餐廳
 
 ## Screen Photo
- ![首頁](https://github.com/ccomos/A1-Restaurant-List/tree/master/public/image/main.jpg)
+ ![首頁](https://github.com/ccomos/A1-Restaurant-List/blob/master/public/image/main.jpg)
 
 ## How to use
 1.開啟終端機(Terminal)至要存放專案的本機位置並執行
